@@ -1,9 +1,12 @@
-# LeetCode-Playground
+# Eisengrau
 
-**LeetCode-Playground** is a structured, pedagogy-first repository for exploring algorithmic problem solving using LeetCode problems as canonical reference points.
+**Eisengrau** is a structured, pedagogy-first repository for exploring algorithmic
+problem solving using competitive programming problems as canonical reference points.
 
 This repository is **not** a submission dump and **not** an interview-cram archive.  
-Its purpose is to document *how* to think about problems, compare solution paradigms, and teach transferable algorithmic patterns through carefully organised examples, notes, and implementations.
+Its purpose is to document *how* to think about problems, compare solution paradigms,
+and teach transferable algorithmic patterns through carefully organised examples,
+notes, and implementations.
 
 ---
 
@@ -25,11 +28,12 @@ Accordingly, this repository focuses on:
 
 ## Repository Structure
 
-Problems are organised **by algorithmic pattern and paradigm**, not by difficulty or arbitrary ordering.  
+Problems are organised **by algorithmic pattern and paradigm**, not by difficulty or
+arbitrary ordering.  
 An example of how this repository is structured includes the following layout:
 
 ```
-LeetCode-Playground/
+Eisengrau/
 ├── arrays/
 │ ├── two_pointers/
 │ ├── prefix_sums/
@@ -69,7 +73,8 @@ This repository is intended for:
 - programmers who want to understand *why* solutions work,
 - readers preparing for ICPC-style contests or technical interviews *properly*.
 
-If you are looking for minimal code to paste into an online judge, this repository is probably not what you want.
+If you are looking for minimal code to paste into an online judge, this repository
+is probably not what you want.
 
 ---
 
@@ -77,9 +82,12 @@ If you are looking for minimal code to paste into an online judge, this reposito
 
 Contributions are welcome.
 
-If you think a problem, approach, explanation, optimisation, or organisational improvement would be useful or interesting to others, feel free to add it.
+If you think a problem, approach, explanation, optimisation, or organisational
+improvement would be useful or interesting to others, feel free to add it.
 
-This repository is intended to grow as a **shared knowledge base** for algorithmic thinking, and thoughtful contributions that improve clarity, depth, or coverage are encouraged.
+This repository is intended to grow as a **shared knowledge base** for algorithmic
+thinking, and thoughtful contributions that improve clarity, depth, or coverage
+are encouraged.
 
 ### Contribution Guidelines
 
@@ -94,7 +102,8 @@ By submitting a contribution, you agree that:
 - your contribution will be distributed under the same license as the repository,
 - authorship credit will be preserved where appropriate.
 
-If you are unsure where or how something fits, feel free to open an issue or discussion first.
+If you are unsure where or how something fits, feel free to open an issue or
+discussion first.
 
 ---
 
@@ -109,7 +118,14 @@ However, **attribution is mandatory**.
 
 ### Mandatory Credit Requirement
 
-If **any** code, explanation, idea, structure, or non-trivial fragment from this repository is used **anywhere**, you **must** provide clear and visible credit to the original source.
+If **any** code, explanation, idea, structure, or non-trivial fragment from this
+repository is used **anywhere**, you **must** provide clear and visible credit to
+the original source.
+
+Attribution must:
+- credit the **repository** as a whole, and
+- credit **individual authors** where their contributions are directly used or
+  adapted and authorship is known.
 
 This includes, but is not limited to:
 - coursework submissions,
@@ -123,19 +139,27 @@ This includes, but is not limited to:
 ### Required Form of Credit
 
 At minimum, attribution must include:
-- the author name: **Matthew Maksymilian Miezaniec**
-- a reference to this repository: **LeetCode-Playground**
+- the repository name: **Eisengrau**
 - a link to the original repository or specific file used
+
+Where applicable, attribution **must also include**:
+- the name(s) of the original author(s) of the material used
 
 **Examples of acceptable attribution:**
 ```
-Adapted from LeetCode-Playground by Matthew Maksymilian Miezaniec
+Adapted from Eisengrau (originally by Matthew Maksymilian Miezaniec)
 ```
 or
 ```
 Based on material from:
-LeetCode-Playground - Matthew Maksymilian Miezaniec
+Eisengrau - see individual file authors for attribution
 ```
+or
+```
+Based on Eisengrau.
+Specific implementation adapted from <author name>.
+```
+
 
 ### No Attribution Loopholes
 
@@ -146,36 +170,62 @@ The following **do not** exempt you from attribution:
 - combining this material with other sources,
 - using the idea rather than the exact code.
 
-If the material meaningfully informed your solution or explanation, **credit is required**.
+If the material meaningfully informed your solution or explanation, **credit is
+required**.
 
 ---
 
 ## Academic Integrity Notice
 
 If you are a student:
-- You are responsible for ensuring that reuse of this material complies with your institution’s academic integrity policies.
-- Proper attribution does **not** automatically make reuse permissible in assessed work.
+- you are responsible for ensuring that reuse of this material complies with your
+  institution’s academic integrity policies,
+- proper attribution does **not** automatically make reuse permissible in assessed
+  work.
 
-This repository is intended as a learning resource, not as a substitute for original assessed submissions.
+This repository is intended as a learning resource, not as a substitute for original
+assessed submissions.
 
 ---
 
 ## Disclaimer
 
 This repository is provided for educational purposes.  
-The author makes no guarantees regarding correctness, optimality, or suitability for any specific contest, interview, or assessment.
+The author makes no guarantees regarding correctness, optimality, or suitability for
+any specific contest, interview, or assessment.
 
 ---
 
-## Author
+## Maintainers and Contributors
+
+### Project Founder and Lead Maintainer
 
 **Matthew Maksymilian Miezaniec**  
-President @ KCPC, President @ Orthant Research Group
+President @ KCPC · President @ Orthant Research Group
+
+Responsible for:
+- the original design and structure of the repository,
+- its pedagogical direction and taxonomy,
+- overall maintenance and review.
+
+### Contributors
+
+This repository includes contributions from multiple authors.
+
+Individual files or directories may list their respective authors where
+appropriate. Contribution history is also preserved via version control.
+
+Unless otherwise stated, contributions are made under the same license as the
+repository.
+
+If you believe your contribution is not properly attributed, please open an issue
+or contact the maintainers.
 
 ---
 
 ## Final Note
 
-If you find this repository useful, attribution is not only required – it is appreciated.
+If you find this repository useful, attribution is not only required - it is
+appreciated.
 
 Good algorithmic thinking spreads best when credit is preserved.
