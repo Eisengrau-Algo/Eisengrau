@@ -201,13 +201,12 @@ any specific contest, interview, or assessment.
 ### Project Founder and Lead Maintainer
 
 **Matthew Maksymilian Miezaniec**  
-President @ KCPC · President @ Orthant Research Group
 
 **Mehmet Kutay Bozkurt**  
-Vice-President @ KCPC
 
 **Annoor (Beed) Mustafi**  
-Treasurer @ KCPC · General-Secretary @ KCPC
+
+**Marcell Németh**
 
 All listed founders and lead maintainers share **equal roles and responsibilities**, including responsibility for:
 - the original design and structure of the repository,
