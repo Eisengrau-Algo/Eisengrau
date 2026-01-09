@@ -202,7 +202,8 @@ any specific contest, interview, or assessment.
 
 **Matthew Maksymilian Miezaniec**  
 King's College London (KCL) - Computer Science  
-University of Edinburgh - Mathematics and Statistics
+University of Edinburgh - Mathematics and Statistics  
+Email: matthewmiezaniec1@gmail.com
 
 **Mehmet Kutay Bozkurt**  
 King's College London (KCL) - Computer Science
