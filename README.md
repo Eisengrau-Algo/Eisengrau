@@ -223,7 +223,7 @@ All listed founders and lead maintainers share **equal roles and responsibilitie
 ### Lead Maintainer(s)
 
 **Keishi Suzuki**  
-University of Toronto - Mathematics and Computer Science
+University of Toronto (UoT) - Mathematics and Computer Science
 
 The lead maintainer(s) share responsibility for:
 - maintaining and reviewing contributions to the repository,
